@@ -146,12 +146,3 @@ If you’d like to collaborate or provide feedback, feel free to connect with me
 
 ---
 
-If you want, I can also:
-
-* ✅ Customize this README to look more **GitHub-professional**
-* ✅ Add badges (Power BI, Data Analytics, Internship)
-* ✅ Help you structure your GitHub repo folders
-* ✅ Write a **resume-ready project description**
-* ✅ Help with interview explanations based on this project
-
-Just tell me what you want next 👍
